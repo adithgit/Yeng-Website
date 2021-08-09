@@ -697,6 +697,8 @@ p.comment-form-author {
 	outline: none;
 	display: block;
 	font-family: 'Open Sans', sans-serif;
+	border-radius: 10px;
+
 }
 .contact-form textarea {
 	padding:10px;
@@ -711,6 +713,7 @@ p.comment-form-author {
 	resize: none;
 	height: 200px;
 	font-family: 'Open Sans', sans-serif;
+	border-radius: 10px;
 }
 .contact-form input[type="submit"]{
 	padding: 0.6em 2em;
